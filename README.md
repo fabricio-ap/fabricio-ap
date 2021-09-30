@@ -10,7 +10,7 @@ como:
 - React Native
 - Next.js
 
-###📫 Caso queira entrar em contato...
+### 📫 Caso queira entrar em contato...
 - Me encontre no LinkedIn -> <a href="https://www.linkedin.com/in/fabricioapereira/">https://www.linkedin.com/in/fabricioapereira/</a>
 
 <!---
