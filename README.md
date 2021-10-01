@@ -4,7 +4,7 @@
 
 Atualmente estou me capacitando para ser um Desenvolvedor Front-End ou um UI/UX Designer
 
-Hoje estou focando na linguagem Javascript, mais focado no desenvolvimento de interfaces, então estou buscando aprender a usar os frameworks mais comuns hoje em dia,
+Hoje estou focando na linguagem Javascript, mais focado no desenvolvimento de interfaces, então estou buscando aprender a usar alguns dos frameworks mais comuns hoje em dia,
 como: 
 - React
 - React Native
