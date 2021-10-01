@@ -1,6 +1,6 @@
-## Oii, sou Fabrício Araujo 👋!
+## Bem vindo ao meu perfil no GitHub :smile:!
 
-### Bem vindo ao meu perfil no GitHub :smile:
+### Oii, sou Fabrício Araujo 👋
 
 Atualmente estou me capacitando para ser um Desenvolvedor Front-End ou um UI/UX Designer
 
