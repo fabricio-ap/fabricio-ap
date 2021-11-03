@@ -15,6 +15,8 @@ Dentro dos meus projetos, aprendi muita coisa relacionado ao desenvolvimento, en
 - Java e Python
 - PostgreSQL e MySQL
 
+Também gosto de usar algumas ferramentas para prototipação como Figma e Adobe XD.
+
 ### Dados do meu GitHub
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-ap&show_icons=true&theme=dark" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabricio-ap&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
