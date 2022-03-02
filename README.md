@@ -2,11 +2,11 @@
 
 ### Oii, sou Fabrício Araujo 👋
 
-Atualmente estou me capacitando para ser Desenvolvedor Front-End ou UI/UX Designer, mas também curto um pouco da área de análise de dados, ou como é bem conhecido, o BI.
+Atualmente estou me capacitando para ser Desenvolvedor Front-End ou UI/UX Designer, mas também curto um pouco a área de BI.
 
 Hoje estou focando na linguagem Javascript, mais focado no desenvolvimento de interfaces, então estou buscando aprender a usar alguns dos frameworks mais comuns hoje em dia,
 como: 
-- ReactJs
+- React JS
 - React Native
 - Next.js
 
@@ -15,7 +15,7 @@ Dentro dos meus projetos, aprendi muita coisa relacionado ao desenvolvimento, en
 - Java e Python
 - PostgreSQL e MySQL
 
-Também gosto de usar algumas ferramentas para prototipação como Figma e Adobe XD.
+Também gosto de usar algumas ferramentas para prototipação como Figma e MockFlow.
 
 ### Meu GitHub
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=fabricio-ap&show_icons=true&theme=dark&custom_title=Dados do meu GitHub" />
