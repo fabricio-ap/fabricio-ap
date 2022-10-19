@@ -18,7 +18,6 @@ Dentro dos meus projetos, aprendi muita coisa relacionado ao desenvolvimento, en
 Também gosto de usar algumas ferramentas para prototipação como Figma e MockFlow.
 
 ### Meu GitHub
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=fabricio-ap&show_icons=true&theme=dark&custom_title=Dados do meu GitHub" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-ap&layout=compact&theme=dark&custom_title=Linguagens" />
 
 ### 📫 Caso queira entrar em contato
