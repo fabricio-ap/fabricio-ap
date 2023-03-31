@@ -1,19 +1,15 @@
 ## Bem vindo ao meu perfil no GitHub :smile:!
 
-### Oii, sou Fabrício Araujo 👋
+### Oii, sou Fabrício Araujo ✌
 
-Atualmente estou me capacitando para ser Desenvolvedor Front-End ou UI/UX Designer, mas também curto um pouco a área de BI.
+Atualmente estou me capacitando para ser Desenvolvedor Front-End, mas também curto bastante a área de design de interfaces (UI/UX Design).
 
-Hoje estou focando na linguagem Javascript, mais focado no desenvolvimento de interfaces, então estou buscando aprender a usar alguns dos frameworks mais comuns hoje em dia,
-como: 
+Estou bastante focado no desenvolvimento front-end, me desenvolvendo na utilização dos frameworks abaixo: 
 - React JS
 - React Native
-- Next.js
-
-Dentro dos meus projetos, aprendi muita coisa relacionado ao desenvolvimento, então, além das tecnologias que estou buscando aprender cada vez mais, algumas outras eu já possuo um bom conhecimento:
-- HTML, CSS e Javascript
-- Java e Python
-- PostgreSQL e MySQL
+- Webpack e Vite
+- Pré-processadores CSS (Sass e Less)
+- CSS in JS (Styled Components)
 
 Também gosto de usar algumas ferramentas para prototipação como Figma e MockFlow.
 
