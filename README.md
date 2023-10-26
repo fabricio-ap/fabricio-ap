@@ -2,16 +2,15 @@
 
 ### Oii, sou Fabrício Araujo ✌
 
-Atualmente estou me capacitando para ser Desenvolvedor Front-End, mas também curto bastante a área de design de interfaces (UI/UX Design).
+Sou Desenvolvedor Frontend, mas também curto bastante a área de design de interfaces (UI/UX Design).
 
-Estou bastante focado no desenvolvimento front-end, me desenvolvendo na utilização dos frameworks abaixo: 
-- React JS
-- React Native
+Meus principais conhecimentos são: 
+- React.js e React Native
 - Webpack e Vite
-- Pré-processadores CSS (Sass e Less)
-- CSS in JS (Styled Components)
+- Pré-processadores CSS (Sass e Less) e CSS in JS (Styled Components)
+- Testes com Jest e Cypress
 
-Também gosto de usar algumas ferramentas para prototipação como Figma e MockFlow.
+Também gosto de usar algumas ferramentas para prototipação como Figma.
 
 ### Meu GitHub
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-ap&layout=compact&theme=dark&custom_title=Linguagens" />
