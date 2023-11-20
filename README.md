@@ -2,17 +2,15 @@
 
 ### Oii, sou Fabrício Araujo ✌
 
-Sou Desenvolvedor Frontend, mas também curto bastante a área de design de interfaces (UI/UX Design).
+Sou Desenvolvedor Frontend, mas também curto bastante a área de design!!
 
 Meus principais conhecimentos são: 
-- React.js e React Native
-- Webpack e Vite
-- Pré-processadores CSS (Sass e Less) e CSS in JS (Styled Components)
-- Testes com Jest e Cypress
+- React, next.js e React Native
+- Less, Sass e gosto bastante de usar Styled-Components
+- Node.js e Python
 
 Também gosto de usar algumas ferramentas para prototipação como Figma.
 
-### Meu GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-ap&hide_progress=true&locale=pt-br&theme=github_dark)
 
 
