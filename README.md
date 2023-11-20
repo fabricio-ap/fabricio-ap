@@ -15,6 +15,10 @@ Também gosto de usar algumas ferramentas para prototipação como Figma.
 ### Meu GitHub
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-ap&layout=compact&theme=dark&custom_title=Linguagens" />
 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fabricio-ap)
+
+
 ### 📫 Caso queira entrar em contato
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/fabricio-ap/)](https://github.com/fabricio-ap/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/fabricioapereira/)](https://www.linkedin.com/in/fabricioapereira/)
