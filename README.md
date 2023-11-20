@@ -13,7 +13,7 @@ Meus principais conhecimentos são:
 Também gosto de usar algumas ferramentas para prototipação como Figma.
 
 ### Meu GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-ap&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-ap&hide_progress=true&locale=pt-br&theme=github_dark)
 
 
 ### 📫 Caso queira entrar em contato
