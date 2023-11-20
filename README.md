@@ -1,7 +1,6 @@
 ## Bem vindo ao meu perfil no GitHub :smile:!
 
-### Oii, sou Fabrício Araujo ✌
-
+### ✌ Oii, sou Fabrício Araujo
 Sou Desenvolvedor Frontend, mas também curto bastante a área de design!!
 
 Meus principais conhecimentos são: 
