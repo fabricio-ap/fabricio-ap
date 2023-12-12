@@ -16,7 +16,7 @@ Tenho conhecimentos em:
 
 Como sou um dev focado em front-end com React, escolhi aprender bastante sobre alguns dos principais pontos:
 - Testes com Jest, Testing Library e Cypress
-- Estado global com Redux e Redux Toolkit, mas as vezes acho melhor utilizar Context API
+- Gerenciamento de estado global com Redux e Redux Toolkit, mas as vezes acho melhor utilizar Context API
 
 Mas não fico preso totalmente a essas tecnologias, também estou estudando bastante sobre Angular e Vue.js, gosto de não ficar preso a uma só coisa, e sim me adaptar para dar as melhores alternativas dependendo do projeto!!
 
