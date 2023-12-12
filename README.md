@@ -3,6 +3,7 @@
 ## :v: Oii, sou Fabrício Araujo
 
 Sou Desenvolvedor Frontend, mas também curto bastante a área de design!!
+
 Tenho alguns anos como desenvolvedor e adoro criar interfaces úteis para os usuários!!
 
 ## :floppy_disk: Conhecimentos e Tecnologias
