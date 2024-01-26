@@ -9,7 +9,7 @@ Tenho alguns anos como desenvolvedor e adoro criar interfaces úteis para os usu
 ## :floppy_disk: Conhecimentos e Tecnologias
 
 Tenho conhecimentos em:
-- React, Next.js e React Native
+- React, Next.js e Vue.js
 - HTML e CSS (Less, Sass e CSS-in-JS), e também em alguns frameworks, como Bootstrap e Tailwind CSS
 - Webpack e Vite
 - Node.js e Python
