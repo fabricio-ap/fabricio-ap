@@ -4,12 +4,12 @@
 
 Sou Desenvolvedor Frontend, mas também curto bastante a área de design!!
 
-Tenho alguns anos como desenvolvedor e adoro criar interfaces úteis para os usuários!!
+Tenho alguns anos como desenvolvedor e adoro criar interfaces úteis para os usuários. Como dev, optei por não me especializar somente em um framework, quero ter a chance de propor sempre a melhor opção para o projeto.
 
 ## :floppy_disk: Conhecimentos e Tecnologias
 
 Tenho conhecimentos em:
-- React, Next.js e Vue.js
+- React, Next, Vue e Angular
 - HTML e CSS (Less, Sass e CSS-in-JS), e também em alguns frameworks, como Bootstrap e Tailwind CSS
 - Webpack e Vite
 - Node.js e Python
